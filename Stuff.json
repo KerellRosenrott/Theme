@@ -144,19 +144,19 @@
             "transparent"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-	    "#0f1428",
-	    "#0f1428",
-	    "#0f1428"
+	    "transparent",
+	    "transparent",
+	    "transparent"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#0a2848",
-            "#dcddde",
-            "#000000"
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "DEPRECATED_CARD_BG": [
             "#0a2848",
